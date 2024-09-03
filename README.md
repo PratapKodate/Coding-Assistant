@@ -13,8 +13,6 @@ GPT-4 does not currently have any knowledge of LCEL in its training data, so thi
 
 You can read about the process in more detail [on Substack](https://open.substack.com/pub/deployingai/p/lab-notes-building-an-ai-code-generator?r=l2jd4&utm_campaign=post&utm_medium=web&showWelcome=true).
 
-Or watch a [video walkthrough](https://www.youtube.com/watch?v=xWDEdkiRA98).
-
 
 ## Current Status
 
